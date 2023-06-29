@@ -21,7 +21,7 @@ Now you want to copy the row you filled in's FEN information.
 Example:
 ![image](https://github.com/pog5/nealpasswordgame/assets/62222436/3818af43-7eee-4e0c-8d2d-6b1a9c14ff9b)
 
-Open up the file called [chess.json](chess.json) in this repository and press Control + F, then paste in your copied fen number, you should see the text you need to type in on the `sol` field.
+Open up the file called [chess.jsonc](chess.jsonc) in this repository and press Control + F, then paste in your copied fen number, you should see the text you need to type in on the `sol` field.
 
 ## Google Maps bypass
 Now this one gets a bit tricky.
@@ -36,4 +36,4 @@ In DevTools, scroll up until you see something like this:
 
 ![image](https://github.com/pog5/nealpasswordgame/assets/62222436/0d842614-7f93-4c4b-8d94-eefdd10d9e48)
 
-Double-Click on the URL then hit Control + C to copy it, then head over to [maps.json](maps.json), hit Control + F, paste in the URL and the text you need to type in to your password should be on the `text` field.
+Double-Click on the URL then hit Control + C to copy it, then head over to [maps.jsonc](maps.jsonc), hit Control + F, paste in the URL and the text you need to type in to your password should be on the `text` field.
