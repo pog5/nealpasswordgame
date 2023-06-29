@@ -10,6 +10,8 @@ A breakdown on https://neal.fun/password-game/
 ---
 ---
 
+# [Cheats.md](CHEATS.MD)
+
 # The Game
 
 ## A simplified list of the Rules:
