@@ -35,7 +35,7 @@ A breakdown on https://neal.fun/password-game/
 20. Password is on :fire:. Don't let it delet Paul!
 21. Add 4 of :man_lifting_weights: 
 22. Needs to contain one of `"i am loved", "i am worthy", "i am enough"`
-23. Egg hatches, feed him 3 :bug: every minute
+23. Egg hatches, feed him a :bug: every 20 seconds or paste in 3 :bug: every 50 seconds~.
 24. Find a YouTube video with a randomly generated lengh.
   - Good luck with this one, I just generated my own using ffmpeg and then uploaded it to youtube:
   - `ffmpeg -loop 1 -i image.png -c:v libx264 -t DURATIONINSECONDS -pix_fmt yuv420p -vf scale=320:240 out.mp4`
@@ -49,6 +49,6 @@ A breakdown on https://neal.fun/password-game/
 31. Every instance of the same letter needs a unique font size
 32. Password needs to contain password's length as a number
 33. Password length also needs to be a prime number
-34. (Automatically Accepted, look at the rule's number if you're asking why)
+34. (Automatically Checked off, look at the rule's number if you're asking why)
 35. You need the current time in format HH:MM
 36. Re-type the password into another textbox, you have 2 minutes to do this. Good Luck.
