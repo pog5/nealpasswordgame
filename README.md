@@ -5,10 +5,6 @@ A breakdown on https://neal.fun/password-game/
 # THE SECTIONS AHEAD CONTAIN SPOILERS
 
 ---
----
----
----
----
 
 # [Cheats.md](CHEATS.MD)
 
