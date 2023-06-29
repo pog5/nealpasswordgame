@@ -1,8 +1,13 @@
-# nealpasswordgame
+# Neal'fun's Password Game
 A breakdown on https://neal.fun/password-game/
+(and also a reverse-engineering attempt)
 
 # THE SECTIONS AHEAD CONTAIN SPOILERS
 
+---
+---
+---
+---
 ---
 
 # The Game
