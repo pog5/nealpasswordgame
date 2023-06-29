@@ -21,11 +21,11 @@ A breakdown on https://neal.fun/password-game/
 7. Needs a roman numeral
 8. Needs to contain one of `"pepsi", "starbucks", "shell"`
 9. Roman numerals need to multiply to 35
-10. Need to contain a randomly generated captcha
-11. Needs today's wordle answer (either tract or diner for today)
+10. Needs to contain a randomly generated captcha
+11. Needs today's wordle answer, [get it from here](CHEATS.md)
 12. Two letter symbol from the periodic table.
 13. Current phase of the moon as a emoji (one of :new_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::crescent_moon::first_quarter_moon_with_face::full_moon_with_face::waxing_crescent_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon_with_face::last_quarter_moon_with_face:)
-14. Name of country from Google Maps, bypass is bellow.
+14. Name of country from Google Maps, [bypass is here](CHEATS.md)
 15. Type Leap year (Just type `0`)
 16. Calculate the best chess move, bypass bellow.
 17. Paul the :egg:! Don't delete him by accident or you will die.
