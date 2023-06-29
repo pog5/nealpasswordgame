@@ -6,7 +6,7 @@ A breakdown on https://neal.fun/password-game/
 
 ---
 
-# [Cheats.md](CHEATS.MD)
+# [Need help?](CHEATS.md)
 
 # The Game
 
