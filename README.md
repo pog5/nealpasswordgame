@@ -32,7 +32,7 @@ A breakdown on https://neal.fun/password-game/
 18. Atomic numbers that add up to 200
 - Before doing the next step, I suggest you copy your current password.
 19. All vowels must be bolded (bold button unlocked)
-20. Password is on :fire:. Don't let it delet Paul!
+20. Delete all of the :fire: before it deletes your password (more importantly Paul)
 21. Add 4 of :man_lifting_weights: 
 22. Needs to contain one of `"i am loved", "i am worthy", "i am enough"`
 23. Egg hatches, feed him a :bug: every 20 seconds or paste in 3 :bug: every 50 seconds~.
