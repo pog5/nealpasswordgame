@@ -1,6 +1,3 @@
-# Cheats
-Or as I like to call them, bypasses.
-
 ## YouTube video of specific length
 Use this spreadsheet's first column while adding `youtu.be/`: https://drive.google.com/file/d/1UZdXQVfrnDnJ1WtWPsZiYCbO2BPsRCip/view
 
