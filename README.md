@@ -2,13 +2,7 @@
 A breakdown on https://neal.fun/password-game/
 (and also a reverse-engineering attempt)
 
-# THE SECTIONS AHEAD CONTAIN SPOILERS
-
----
-
-# [Need help?](CHEATS.md)
-
-# The Game
+# [Cheatsheet](CHEATS.md)
 
 ## A simplified list of the Rules:
 
