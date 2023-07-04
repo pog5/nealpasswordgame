@@ -1,6 +1,9 @@
 # Cheats
 Or as I like to call them, bypasses.
 
+## YouTube video of specific length
+Use this spreadsheet's first column while adding `youtu.be/`: https://drive.google.com/file/d/1UZdXQVfrnDnJ1WtWPsZiYCbO2BPsRCip/view
+
 ## Initial Password
 The password I use before all the random requirements begin is `074914Kk!octoberXXXVshell`
 
