@@ -7,8 +7,19 @@ The password I use before all the random requirements begin is `074914Kk!october
 ## Wordle bypass
 Probably the easiest one of them all.
 
-Just replace the date placeholders with real values and head to this URL:
-`https://neal.fun/api/password-game/wordle?date=YYYY-MM-DD`
+Replace `DATE` with today's date in the format `YYYY-MM-DD`:
+`https://neal.fun/api/password-game/wordle?date=DATE`
+
+Alternatively, you can paste the following one-liner into the developer console (F12):
+```js
+d=new Date().toISOString().split('T')[0],fetch(`https://neal.fun/api/password-game/wordle?date=${d}`).then(r=>r.json()).then(d=>console.log(d.answer))
+```
+
+## Captcha bypass
+There's no need for a bypass since the solution is self-evident, but here's a one-liner in case you are coding a solver yourself:
+```js
+document.querySelector('.captcha-img').src.match(/\w+(?=.png)/)[0]
+```
 
 ## Chess Game bypass
 For this, go to [Lichess's Board editor](https://lichess.org/editor).
@@ -22,6 +33,8 @@ Example:
 ![image](https://github.com/pog5/nealpasswordgame/assets/62222436/3818af43-7eee-4e0c-8d2d-6b1a9c14ff9b)
 
 Open up the file called [chess.jsonc](chess.jsonc) in this repository and press Control + F, then paste in your copied fen number, you should see the text you need to type in on the `sol` field.
+
+You can also add [Chessvision.ai](https://chessvision.ai/) as a browser extension, then scan the webpage and turn on Stockfish.
 
 ## Google Maps bypass
 Now this one gets a bit tricky.
