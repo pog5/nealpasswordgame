@@ -50,3 +50,6 @@ In DevTools, scroll up until you see something like this:
 ![image](https://github.com/pog5/nealpasswordgame/assets/62222436/0d842614-7f93-4c4b-8d94-eefdd10d9e48)
 
 Double-Click on the URL then hit Control + C to copy it, then head over to [maps.jsonc](maps.jsonc), hit Control + F, paste in the URL and the text you need to type in to your password should be on the `text` field.
+
+## Moon bypass (if you're lazy or working on script)
+Add `🌑🌒🌓🌔🌕🌖🌗🌘` to your password. This is not the most elegant as your password now contains unnecessary characters, but it's definitely the easiest.
