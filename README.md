@@ -18,7 +18,7 @@ A breakdown on https://neal.fun/password-game/
 10. The solution to a provided captcha ([Bypass])
 11. Today's Wordle answer ([Bypass])
 12. Two letter symbol from the periodic table.
-13. Current phase of the moon as an emoji (one of :new_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::crescent_moon::first_quarter_moon_with_face::full_moon_with_face::waxing_crescent_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon_with_face::last_quarter_moon_with_face:)
+13. Current phase of the moon as an emoji (one of :new_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::crescent_moon::first_quarter_moon_with_face::full_moon_with_face::waxing_crescent_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon_with_face::last_quarter_moon_with_face:) ([Bypass])
 14. Name of country from Google Maps ([Bypass])
 15. Needs a leap year (Just type `0`)
 16. Calculate the best chess move, bypass below.
