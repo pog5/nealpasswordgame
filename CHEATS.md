@@ -1,5 +1,10 @@
 ## YouTube video of specific length
-Use this spreadsheet's first column while adding `youtu.be/`: https://drive.google.com/file/d/1UZdXQVfrnDnJ1WtWPsZiYCbO2BPsRCip/view
+Use this spreadsheet's first column while adding `youtu.be/`: 
+`https://drive.google.com/file/d/1UZdXQVfrnDnJ1WtWPsZiYCbO2BPsRCip/view`
+
+If you are unable to find any links without messing up elements/digits, you can find one yourself by searching the follwing: 
+
+Replace `DURATION` with your desired length in the format `MINUTES:SECONDS`: `[site:youtube.com "0:00 / DURATION"]`
 
 ## Initial Password
 The password I use before all the random requirements begin is `074914Kk!octoberXXXVshell`
