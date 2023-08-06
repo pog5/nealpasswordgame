@@ -1,3 +1,8 @@
+# Script to automate everything
+The script may not always succeed but theres a very high chance it does.
+Install Tampermonkey or Violentmonkey then click on the link bellow
+https://github.com/pog5/nealpasswordgame/raw/main/password-game-tas.user.js
+
 ## YouTube video of specific length
 Use this spreadsheet's first column while adding `youtu.be/`: 
 `https://drive.google.com/file/d/1UZdXQVfrnDnJ1WtWPsZiYCbO2BPsRCip/view`
