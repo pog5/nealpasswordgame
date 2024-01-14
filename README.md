@@ -45,6 +45,6 @@ A breakdown on https://neal.fun/password-game/
 33. Password length also needs to be a prime number
 34. (Automatically Checked off, look at the rule's number if you're asking why)
 35. You need the current time in format HH:MM
-36. Re-type the password into another textbox, you have 2 minutes to do this. Good Luck.
+36. ~~Copy-Paste~~ Re-type the password into another textbox, you have 2 minutes to do this.
 
 [Bypass]: CHEATS.md
